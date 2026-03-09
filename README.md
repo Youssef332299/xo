@@ -39,6 +39,6 @@ The interface is simple and user-friendly.
 🔄 Reset Game Option
 Players can restart the game anytime.
 <p align="center">
-  <img src="presentation-xo.png" width="600">
+  <img src="https://github.com/Youssef332299/xo/blob/main/presntation%20xo.png" width="600">
 </p>>
  
